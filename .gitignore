@@ -1,2 +1,6 @@
 **/*_checkpoints
 **/*.pickle
+**/eplus*
+**/sqlites.err
+**/*.svg
+**/*.pickle
